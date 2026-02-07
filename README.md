@@ -1,1 +1,3 @@
-# Machine-learning-concepts-Autotrader
+# AutoTrader Machine Learning Concepts  
+
+Applied machine-learning coursework analysing UK AutoTrader vehicle listings to explore price modelling and core ML principles. The repository contains a reproducible Jupyter notebook and a formal academic report covering data preprocessing, feature engineering, exploratory analysis, and comparative regression models. Model performance is evaluated using standard regression metrics, with discussion of bias–variance trade-offs, validation strategy, and methodological limitations. The focus is on demonstrating end-to-end machine-learning understanding rather than production deployment.  
